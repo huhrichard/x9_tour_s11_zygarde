@@ -5,7 +5,7 @@ TLDR: Have fun to play with Zygarde if you have spare time ZZZ.
 
 I am huh/Richard, admin B of Gengar Hater [FB](https://www.facebook.com/GengarHater/)/[IG](https://www.instagram.com/gengar.hater/), who is pretty new to VGC double battle. I was a single battle player before SwSh, so sometimes the team building is still closed to single battle mindset.
 
-我係huh/Richard，Genger Hater的Admin B， VGC嚟講算是新手吧，劍盾以前都係玩單打，所以組隊思維而言都係比較接近單打的。
+我係huh/Richard，Genger Hater的Admin B[FB](https://www.facebook.com/GengarHater/)/[IG](https://www.instagram.com/gengar.hater/)， VGC嚟講算是新手吧，劍盾以前都係玩單打，所以組隊思維而言都係比較接近單打的。
 
 Actually I was expecting to play S10 format in the tournament which I get into Top8 with [Yveltal in Eakes' sub tournament](https://pokepast.es/3e0af8d0a39e45a6), which is also a kind of off-meta and defensive team. I changed the [Yveltal team a bit](https://pokepast.es/8a56106fe3ae54dd) to be more offensive with Quiver Dance Volarona. As Joe said, we are gonna play S11 but there is no practice platform on Showdown/ranked battle. Within this week, I can only play the team I used/the restricted in S8 I am familarized with. 
 
