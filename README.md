@@ -101,7 +101,7 @@ Careful Nature
 - Spirit Break  
 - Thunder Wave
 
-Friends of mine know I am always running out of resources, like dmax candy etc, but I purposely use a vmax Grimmsnarl in case. I just felt the Misty Terrain may help a bit for Zygarde. I choose TW instead of Scary Face becoz of I felt Zygarde/Venusaur can handle most of the Ground/Electric pkm. The semifinal match-up with offensive Dragapult prove its usage, although I found Z-100% should put a bit more speed EVs to outspeed Dragapult/Zacian/Calyrex-Shadow.
+Friends of mine know I am always running out of resources, like dmax candy etc, but I purposely use a vmax Grimmsnarl in case. I just felt the Misty Terrain may help a bit for Zygarde. I chose TW instead of Scary Face becoz I felt Zygarde/Venusaur can handle most of the Ground/Electric pkm. The semifinal match-up with offensive Dragapult prove its usage, although I found Z-100% should put a bit more speed EVs to outspeed Dragapult/Zacian/Calyrex-Shadow.
 
 ![Rotom-Heat](/images/479-h.png)
 
@@ -119,7 +119,7 @@ IVs: 0 Atk
 - Protect  
 - Overheat
 
-Rotom-Heat is great counter to Zacian, Calyrex-Ice, the mirror sunny match-up, although the stamina is super high, so I still bring protect instead of ally switch, although AS would be a good cover to Zygarde. Also Grimmsnarl's screens helps a lot on the damage reduce to Rotom-H.
+Rotom-Heat is great counter to Zacian, Calyrex-Ice, the mirror sunny match-up, although the stamina is not super high. So I still bring protect instead of ally switch, although AS would be a good cover to Zygarde. Also Grimmsnarl's screens helps a lot on the damage reduce to Rotom-H.
 
 This team itself is quite flexable, 3 dynamax choices: Zygarde/Venusaur/Rotom-H and 3 supports.
 I didn't came up with much strategies about the lead, but feel free to ask. 
