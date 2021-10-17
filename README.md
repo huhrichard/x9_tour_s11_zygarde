@@ -16,9 +16,13 @@ I knew it's not a highly competetive team, so I go to look up the Zygarde team o
 
 
 ![Zygarde-50%](/images/250px-718Zygarde.png) ![Zygarde-100%](/images/240px-718Zygarde-Complete.png)
+
 @ Leftovers 
+
 Ability: Power Construct  
+
 EVs: 4 HP / 180 Atk / 68 Def / 252 SpD / 4 Spe  
+
 Impish Nature  
 - Thousand Arrows  
 - Coil  
@@ -27,10 +31,15 @@ Impish Nature
 Since either the HP stats of Zygarde-50% or 100% are quite high, it's not worth to invest HP EV to maximum the stamina. Zygarde is not always dynamax choice, so just max the sp. def. for coil. I was using struggling to pick 2 out of Iron Tail/Protect/Sub, which I finally just decide to go with Protect/Sub to make the Power Contruct came easier.
 
 ![Torkoal](/images/324.png) 
+
 @ Sitrus Berry 
+
 Ability: Drought  
+
 EVs: 236 HP / 20 Def / 252 SpD  
+
 Relaxed Nature  
+
 IVs: 0 Atk / 0 Spe  
 - Yawn  
 - Burning Jealousy  
@@ -39,10 +48,15 @@ IVs: 0 Atk / 0 Spe
 The sp. def. Torkoal used in PJCS Champion クララ team got from serial code.
 
 ![Venusaur](/images/003-gi.png)
+
 @ Coba Berry  
+
 Ability: Chlorophyll  
+
 EVs: 140 HP / 4 Def / 236 SpA / 4 SpD / 124 Spe  
+
 Modest Nature  
+
 IVs: 0 Atk  
 - Frenzy Plant  
 - Sludge Bomb  
@@ -51,11 +65,17 @@ IVs: 0 Atk
 Classic Gmax Venusaur, I was struggling with AV/Life Orb/Coba Berry, AV will make a easier game with Kyogre, while Life Orb need to play hyper offensive, Coba Berry kind of a middle choice with better match-up to those Max Airstream.
 
 ![Porygon2](/images/233.png)
+
 @ Eviolite  
+
 Ability: Trace  
+
 Level: 50  
+
 EVs: 252 HP / 188 Def / 4 SpA / 60 SpD / 4 Spe  
+
 Calm Nature  
+
 IVs: 0 Atk  
 - Trick Room  
 - Eerie Impulse  
@@ -64,10 +84,13 @@ IVs: 0 Atk
 Also a classic eerie impulse + foul play P2 under restricted format, EVs spread for both phy. and sp. def. 4SpA is left becoz I used it for non-restricted format LOL.
 
 ![Grimmsnarl](/images/861.png)
+
 @ Light Clay  
+
 Ability: Prankster  
-Level: 50  
+
 EVs: 252 HP / 4 Atk / 132 Def / 116 SpD / 4 Spe  
+
 Careful Nature  
 - Reflect  
 - Light Screen  
@@ -76,11 +99,15 @@ Careful Nature
 Friends of mine know I am always running out of resources, like dmax candy etc, but I purposely use a vmax Grimmsnarl in case. I just felt the Misty Terrain may help a bit for Zygarde. I choose TW instead of Scary Face becoz of I felt Zygarde/Venusaur can handle most of the Ground/Electric pkm. The semifinal match-up with offensive Dragapult prove its usage, although I found Z-100% should put a bit more speed EVs to outspeed Dragapult/Zacian/Calyrex-Shadow.
 
 ![Rotom-Heat](/images/479-h.png)
+
 @ Safety Goggles  
+
 Ability: Levitate  
-Level: 60  
+
 EVs: 252 HP / 100 Def / 116 SpA / 4 SpD / 36 Spe  
+
 Modest Nature  
+
 IVs: 0 Atk  
 - Thunderbolt  
 - Nasty Plot  
