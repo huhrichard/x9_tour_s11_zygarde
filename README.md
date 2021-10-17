@@ -6,7 +6,7 @@ TLDR: Have fun to play with Zygarde if you have spare time ZZZ.
 
 I am huh/Richard, admin B of Gengar Hater [FB](https://www.facebook.com/GengarHater/)/[IG](https://www.instagram.com/gengar.hater/), who is pretty new to VGC double battle. I was a single battle player before SwSh, so sometimes the team building is still closed to single battle mindset. I am the lucky winner in the X9 League Championship NYC with the Zygarde team.
 
-我係huh/Richard，Genger Hater的Admin B[FB](https://www.facebook.com/GengarHater/)/[IG](https://www.instagram.com/gengar.hater/)， VGC嚟講算是新手吧，劍盾以前都係玩單打，所以組隊思維而言都係比較接近單打的。有幸地用Z神喺X9 League Championship NYC拎到冠軍。
+我係huh/Richard，Genger Hater的Admin B [FB](https://www.facebook.com/GengarHater/)/[IG](https://www.instagram.com/gengar.hater/)， VGC嚟講算是新手吧，劍盾以前都係玩單打，所以組隊思維而言都係比較接近單打的。有幸地用Z神喺X9 League Championship NYC拎到冠軍。
 
 ![rental code](/images/rental_code_z.JPG)
 
