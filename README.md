@@ -28,6 +28,7 @@ Impish Nature
 - Coil  
 - Protect  
 - Substitute
+
 Since either the HP stats of Zygarde-50% or 100% are quite high, it's not worth to invest HP EV to maximum the stamina. Zygarde is not always dynamax choice, so just max the sp. def. for coil. I was using struggling to pick 2 out of Iron Tail/Protect/Sub, which I finally just decide to go with Protect/Sub to make the Power Contruct came easier.
 
 ![Torkoal](/images/324.png) 
@@ -45,6 +46,7 @@ IVs: 0 Atk / 0 Spe
 - Burning Jealousy  
 - Body Press  
 - Protect
+
 The sp. def. Torkoal used in PJCS Champion クララ team got from serial code.
 
 ![Venusaur](/images/003-gi.png)
@@ -62,6 +64,7 @@ IVs: 0 Atk
 - Sludge Bomb  
 - Sleep Powder  
 - Earth Power 
+
 Classic Gmax Venusaur, I was struggling with AV/Life Orb/Coba Berry, AV will make a easier game with Kyogre, while Life Orb need to play hyper offensive, Coba Berry kind of a middle choice with better match-up to those Max Airstream.
 
 ![Porygon2](/images/233.png)
@@ -81,6 +84,7 @@ IVs: 0 Atk
 - Eerie Impulse  
 - Foul Play  
 - Recover
+
 Also a classic eerie impulse + foul play P2 under restricted format, EVs spread for both phy. and sp. def. 4SpA is left becoz I used it for non-restricted format LOL.
 
 ![Grimmsnarl](/images/861.png)
@@ -96,6 +100,7 @@ Careful Nature
 - Light Screen  
 - Spirit Break  
 - Thunder Wave
+
 Friends of mine know I am always running out of resources, like dmax candy etc, but I purposely use a vmax Grimmsnarl in case. I just felt the Misty Terrain may help a bit for Zygarde. I choose TW instead of Scary Face becoz of I felt Zygarde/Venusaur can handle most of the Ground/Electric pkm. The semifinal match-up with offensive Dragapult prove its usage, although I found Z-100% should put a bit more speed EVs to outspeed Dragapult/Zacian/Calyrex-Shadow.
 
 ![Rotom-Heat](/images/479-h.png)
@@ -113,6 +118,7 @@ IVs: 0 Atk
 - Nasty Plot  
 - Protect  
 - Overheat
+
 Rotom-Heat is great counter to Zacian, Calyrex-Ice, the mirror sunny match-up, although the stamina is super high, so I still bring protect instead of ally switch, although AS would be a good cover to Zygarde. Also Grimmsnarl's screens helps a lot on the damage reduce to Rotom-H.
 
 This team itself is quite flexable, 3 dynamax choices: Zygarde/Venusaur/Rotom-H and 3 supports.
