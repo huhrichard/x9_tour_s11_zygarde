@@ -1,7 +1,7 @@
 # The Power of Z...zZzZ
 
-TLDR: Have fun to play with Zygarde if you have spare time ZZZ.
-珍惜生命，遠離Z神。
+TLDR: Have fun to play with Zygarde if you have spare time ZZZ. Most of the battle is gonna be timeover and 20mins were wasted.
+珍惜生命，遠離Z神。每用一次Z神隊，就有20分鐘浪費咗。
 
 
 I am huh/Richard, admin B of Gengar Hater [FB](https://www.facebook.com/GengarHater/)/[IG](https://www.instagram.com/gengar.hater/), who is pretty new to VGC double battle. I was a single battle player before SwSh, so sometimes the team building is still closed to single battle mindset. I am the lucky winner in the X9 League Championship NYC with the Zygarde team.
