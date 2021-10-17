@@ -1,6 +1,4 @@
-# x9_tour_s11_zygarde
-
-The Power of Z...zZzZ
+# The Power of Z...zZzZ
 
 TLDR: Have fun to play with Zygarde if you have spare time ZZZ
 
