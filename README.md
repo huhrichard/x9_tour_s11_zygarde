@@ -163,7 +163,11 @@ Rotom-Heat is great counter to Zacian, Calyrex-Ice, the mirror sunny match-up, a
 This team itself is quite flexable, 3 dynamax choices: Zygarde/Venusaur/Rotom-H and 3 supports.
 I didn't came up with much strategies about the lead, but feel free to ask. I am pretty luck didnt see any Kyogre in the tournament, and hax with the last 2 battle in the final, but at least I get into the final without much hax before.
 
+Someone dm me about the lead of Grimmsnarl + Landorus-T, I would prefer bring Venusaur at least for the residual damage, and let Zygarde to clear up the others, which is actually the main strategy of this team.
+
 呢隊嚟講彈性係好高，3隻極巨手：Z神/奇異花/微波爐，再加3隻support手。首發方面我冇乜特別對策，不過歡迎發問。不得不承認我係好好彩，冇遇到任何海皇牙隊，同埋決賽最後兩場真係嚴重hax，不過晉身決賽前都冇乜hax過。
+
+有人dm問我例如點對應長毛+地狗呢類組合，比較正路就係抗飛果奇異花，利用超極巨招打residual damage，再用Z神尾刀。亦都算係呢隊嘅主要打法吧。
 
 
 
