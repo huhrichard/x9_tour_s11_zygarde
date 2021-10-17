@@ -81,19 +81,19 @@ The sp. def. Torkoal used in PJCS Champion クララ team got from serial code.
 
 ![Venusaur](/images/003-gi.png)
 
-@ Coba Berry  
+@ Coba Berry  抗飛果
 
-Ability: Chlorophyll  
+Ability: Chlorophyll 葉綠素
 
 EVs: 140 HP / 4 Def / 236 SpA / 4 SpD / 124 Spe  
 
-Modest Nature  
+Modest Nature  (+SpA -Atk)
 
 IVs: 0 Atk  
-- Frenzy Plant  
-- Sludge Bomb  
-- Sleep Powder  
-- Earth Power 
+- Frenzy Plant 瘋狂植物
+- Sludge Bomb  毒爆彈
+- Sleep Powder  催眠粉末
+- Earth Power  大地之力
 
 Classic Gmax Venusaur, I was struggling on choosing AV/Life Orb/Coba Berry, AV will make a easier game with Kyogre, while Life Orb need to play hyper offensive, Coba Berry kind of a middle choice with better match-up to those Max Airstream. Unfournately the only two sleep powder were both missed.
 好大路嘅Gmax奇異花，喺AV/命玉/抗飛果掙扎咗好耐。AV打海皇牙會輕鬆啲，命玉就係進取啲，抗飛果就對抗極飛手。不幸地冇做開眠粉仔，兩下都miss曬。
