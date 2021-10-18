@@ -12,7 +12,7 @@ I am huh/Richard, admin B of Gengar Hater [FB](https://www.facebook.com/GengarHa
 
 Actually I was expecting to play S10 format in the tournament which I get into Top8 with [Yveltal in Eakes' sub tournament](https://pokepast.es/3e0af8d0a39e45a6), which is also a kind of off-meta and defensive team. I changed the [Yveltal team a bit](https://pokepast.es/8a56106fe3ae54dd) to be more offensive with Quiver Dance Volarona. As Joe said, we are gonna play S11 but there is no practice platform on Showdown/ranked battle. Within this week, I can only play the team I used/the restricted in S8 I am familarized with. 
 
-本來我以為係打S10，就諗住用之前top cut過嘅極受+非主流[Y雀隊](https://pokepast.es/3e0af8d0a39e45a6). 後尾改咗用[蝶舞火蛾進取少少]((https://pokepast.es/8a56106fe3ae54dd)。不過後尾Joe話會打S11，但係喺冇任何練習平台底下，呢一個星期內，我只能夠用返一啲S8用過嘅隊/S神。
+本來我以為係打S10，就諗住用之前top cut過嘅極受+非主流[Y雀隊](https://pokepast.es/3e0af8d0a39e45a6). 後尾改咗用[蝶舞火蛾進取少少](https://pokepast.es/8a56106fe3ae54dd)。不過後尾Joe話會打S11，但係喺冇任何練習平台底下，呢一個星期內，我只能夠用返一啲S8用過嘅隊/S神。
 
 In S8, I played with a few restricted pokemons, e.g. those T0 pkm, Zacian, Calyrex-Shadow. I did play CS/AV icy wind Kyurem-W, WP Dialga, Rayquaza, and also Zygarde. Zygarde was the most secure one I played before, although not a sunny team setup I used yesterday: https://pokepast.es/93fc718c05893f16
 
